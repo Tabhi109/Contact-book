@@ -4,9 +4,8 @@ This is a simple contact book web app that allows you to add new contacts and se
 
 ## Features
 
-- Add new contacts with name, phone number, and email address
+- Add new contacts with name, phone number
 - Search for contacts by name
-- View a list of all contacts
 
 ## Technologies Used
 
